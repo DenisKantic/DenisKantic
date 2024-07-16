@@ -11,7 +11,16 @@
 
 <h3 align="center">About me:</h3>
 <p align='center'> 
-Enthusiastic wannabe full stack web developer eager to contribute to team success through hard work, attention to detail and with excellent organizational skills. Started with programming in High School 2016, then proceeded with upgrading my skills on free Java course in my town called "BILD-IT" 2017 and 2018. Passed all test in BILD-IT and voulnteered as a photographer. Continued on my own with learning. I learned Git/GitHub, HTML5, CSS3, Javascript and currently learning ReactJS and NodeJS. 
+Enthusiastic and dedicated young professional with a passion for programming and a
+strong foundation in web development, boasting 1.5 years of hands-on experience.
+Experienced in system administration with a year's expertise, complemented by a role in
+providing comprehensive IT support. As an IT professor, I share my knowledge by
+teaching informatics to primary and high school students, inspiring future tech
+enthusiasts.
+I'm also the founder and creator of PetConnectBosnia, the first web app available across
+all devices dedicated to helping animals throughout my country.
+
+  Technologies I'm using are: NextJS, TailwindCSS, DaisyUI, Postgres, Prisma, Golang
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
